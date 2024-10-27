@@ -19,4 +19,6 @@
 
 <p><img align="center" ![Visitor Count](https://profile-counter.glitch.me/akshitmalik21/count.svg) /></p>
 <h3 align="center">Thanks for visiting</h3>
-<h3 align="center"> ![Visitor Count](https://profile-counter.glitch.me/akshitmalik21/count.svg) </h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/akshitmalik21/count.svg" alt="Visitor Count">
+</p>
