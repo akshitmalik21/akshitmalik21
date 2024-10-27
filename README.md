@@ -17,5 +17,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitmalik21&" alt="akshitmalik21" /></p>
 
-
-![Visitor Count](https://profile-counter.glitch.me/akshitmalik21/count.svg)
+<p><img align="center" ![Visitor Count](https://profile-counter.glitch.me/akshitmalik21/count.svg) /></p>
+<h3 align="center">Thanks for visiting</h3>
+<h3 align="center"> ![Visitor Count](https://profile-counter.glitch.me/akshitmalik21/count.svg) </h3>
