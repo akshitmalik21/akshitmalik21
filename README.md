@@ -1,24 +1,123 @@
-<h1 align="center">Hi 👋, I'm Akshit Malik</h1>
-<h3 align="center">A passionate DevOps/SRE Engineer from India</h3>
+# 👋 Hey, I'm Akshit Malik
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitmalik21&label=Profile%20views&color=0e75b6&style=flat" alt="akshitmalik21" /> </p>
+**DevOps | SRE | Cloud Architect** from India 🇮🇳
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitmalik21" alt="akshitmalik21" /></a> </p>
+Building scalable infrastructure, automating everything, and making systems more reliable.
 
-- 📫 How to reach me **career.akshit@gmail.com**
+---
 
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I'm a passionate DevOps and SRE Engineer focused on cloud architecture, infrastructure automation, and system reliability. I work with modern container orchestration, CI/CD pipelines, and monitoring solutions to build robust systems at scale.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitmalik21&show_icons=true&locale=en&layout=compact" alt="akshitmalik21" /></p>
+- 🔧 **Specialization**: DevOps, SRE, Cloud Infrastructure, Container Orchestration
+- 🌍 **Location**: India
+- 💼 **Open to**: Opportunities in DevOps, SRE, and Cloud Engineering roles
+- 📧 **Reach out**: [career.akshit@gmail.com](mailto:career.akshit@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitmalik21&show_icons=true&locale=en" alt="akshitmalik21" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitmalik21&" alt="akshitmalik21" /></p>
+## 🔗 Connect With Me
 
-<p><img align="center" ![Visitor Count](https://profile-counter.glitch.me/akshitmalik21/count.svg) /></p>
-<h3 align="center">Thanks for visiting</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/akshitmalik21/count.svg" alt="Visitor Count">
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/careerakshit)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:career.akshit@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshitmalik21)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Container & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Messaging & Streaming
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Web Server
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### ML/Data & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitmalik21&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akshitmalik21&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshitmalik21&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 What I'm Currently Focusing On
+
+- 🔍 Advanced Kubernetes patterns and best practices
+- 🛡️ Infrastructure as Code (IaC) with Terraform
+- 📈 Observability and distributed tracing
+- 🚀 Cloud-native application deployments
+- 🔐 Security and compliance automation
+- 🤖 **AI/ML Operations** - MLOps pipelines, model deployment, and AI infrastructure scaling
+- 🧠 **Generative AI** - LLM deployment, prompt engineering, and AI-powered automation
+- 📊 Machine learning infrastructure and data pipeline orchestration
+
+---
+
+## 🤖 AI & Machine Learning
+
+Beyond traditional DevOps, I'm deeply interested in the intersection of **AI/ML and Infrastructure**:
+
+- **MLOps**: Building and maintaining ML pipelines, model versioning, and experiment tracking
+- **Generative AI**: Exploring LLM deployments, prompt engineering, and AI-powered automation
+- **AI Infrastructure**: Scaling AI workloads on Kubernetes, GPU resource management, and cost optimization
+- **Data Engineering**: Processing large datasets, building data pipelines with Kafka and Apache ecosystem
+- **AI Experimentation**: TensorFlow, PyTorch, and modern ML frameworks
+
+---
+
+I'm always open to discussing DevOps practices, cloud architecture, and system reliability. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/careerakshit) or drop me an email!
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, consider giving my projects a star!
+
+**Thanks for visiting my profile!** 🙌
+
+</div>
