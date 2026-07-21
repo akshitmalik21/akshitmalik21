@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Akshit Malik
-
+https://akshitmalik21.github.io/akshit.github.io/
 **DevOps | SRE | Cloud Architect** from India 🇮🇳
 
 Building scalable infrastructure, automating everything, and making systems more reliable.
@@ -24,6 +24,7 @@ I'm a passionate DevOps and SRE Engineer focused on cloud architecture, infrastr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/careerakshit)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:career.akshit@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshitmalik21)
+[![PORTFOLIO](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akshitmalik21.github.io/akshit.github.io/)
 
 </div>
 
